@@ -26,7 +26,7 @@
 - Python (Cisco NetAcad)
 - IBM Data Fundamentals
 
----
+
 
 ## 🔗 Connect With Me
 - LinkedIn: linkedin.com/in/vijaya-lakshmi-203280417

@@ -24,7 +24,6 @@
 
 ## 📚 Currently Learning
 - Python (Cisco NetAcad)
-- IBM Data Fundamentals
 
 
 

@@ -6,13 +6,6 @@
 
 ---
 
-## 🏆 Certifications
-- 📊 Deloitte — Data Analytics Job Simulation
-- 🤖 Tata — GenAI Powered Data Analytics
-- 💡 IBM — AI Fundamentals and Data fundamentals
-- 🔬 Commonwealth Bank — Introduction to Data Science
-- Microsoft.....
-
 ---
 
 ## 🛠️ Skills
